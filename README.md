@@ -1,6 +1,6 @@
 # About me
 
-##🔧 Passionate about building robust and scalable back-end systems that power web and mobile applications.
+🔧 Passionate about building robust and scalable back-end systems that power web and mobile applications.
 
 💼 Currently working as a back-end developer, where I leverage my expertise in Java and Spring Boot to develop RESTful APIs and microservices.
 
